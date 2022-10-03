@@ -20,6 +20,7 @@ export default function EditProjectForm({ project }) {
     return alert('Please fill out all fields')
   }
 
+  updateProject(name, description, status);
 }
 
   return (
